@@ -1,4 +1,4 @@
-# include "./includes/miinclude.h"
+#include <string.h>
 
 int main()
 {
